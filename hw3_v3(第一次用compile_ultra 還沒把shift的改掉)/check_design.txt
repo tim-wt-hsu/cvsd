@@ -1,0 +1,48 @@
+ 
+****************************************
+check_design summary:
+Version:     R-2020.09-SP5
+Date:        Tue Nov 16 22:21:57 2021
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                      2
+    Unconnected ports (LINT-28)                                     1
+    Constant outputs (LINT-52)                                      1
+
+Cells                                                              28
+    Cells do not drive (LINT-1)                                    28
+--------------------------------------------------------------------------------
+
+Warning: In design 'YCbCr', cell 'B_6' does not drive any nets. (LINT-1)
+Warning: In design 'YCbCr', cell 'B_7' does not drive any nets. (LINT-1)
+Warning: In design 'YCbCr', cell 'B_8' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C2892' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C2972' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_129' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C2979' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_131' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C2987' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_134' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_135' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_136' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_137' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_138' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_139' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_140' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'B_141' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3317' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3320' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3323' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3324' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3325' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3326' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3327' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3328' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3329' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3330' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', cell 'C3331' does not drive any nets. (LINT-1)
+Warning: In design 'FSM', port 'i_in_valid' is not connected to any nets. (LINT-28)
+Warning: In design 'FSM', output port 'o_mem_CEN' is connected directly to 'logic 0'. (LINT-52)
+1
